@@ -1,0 +1,152 @@
+{
+    "header": "[Sprint 1]",
+    "items": [
+        {
+            "title": "[EXTRA Configuração do Servidor]",
+            "desc": "Configurar servidor em produção com domínio conecte.institucional.com",
+            "time": "4h",
+            "progress": 30,
+            "status": 2
+        },
+        {
+            "title": "[EXTRA Histórico]",
+            "desc": "Banco de Dados {Tabela Anos (Years)}",
+            "time": "3h",
+            "progress": 100,
+            "status": 3
+        },
+        {
+            "title": "[EXTRA Histórico]",
+            "desc": "Banco de Dados {Tabela Histórico (Logs)}. Colunas da tabela: {Years, Users, Clients} parent_entity_id, entity_id",
+            "time": "2h",
+            "progress": 40,
+            "status": 2
+        },
+        {
+            "title": "[EXTRA Histórico]",
+            "desc": "Regras de Negócio para {Tabela Anos (Years)}",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#1 Login]",
+            "desc": "Banco de Dados {Tabela Usuários}",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#1 Login]",
+            "desc": "Banco de Dados {Tabela Dispositivos (Clients)}",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#1 Login]",
+            "desc": "Banco de Dados {Tabela Subscrições}",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#1 Login]",
+            "desc": "Regras de Negócio para {Tabela Subscrições}",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#1 Login]",
+            "desc": "Formulário de Cadastro",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#1 Login]",
+            "desc": "Regras de Negócio para Cadastro ",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#1 Login]",
+            "desc": "Deploy em produção",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#2 Recuperação de Senha]",
+            "desc": "Banco de Dados {Tabela Link Seguro}",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#2 Recuperação de Senha]",
+            "desc": "Regras de Negócio para {Tabela Link Seguro}",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#2 Recuperação de Senha]",
+            "desc": "Formulário para Refazer Senha",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#2 Recuperação de Senha]",
+            "desc": "Interfaces de Usuário de Mensangens",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#2 Recuperação de Senha]",
+            "desc": "Deploy em produção",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#3 Recuperação de Token]",
+            "desc": "Banco de Dados {Tabela Links Seguros}",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#3 Recuperação de Token]",
+            "desc": "Regras de Negócio para {Tabela Links Seguros}",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#3 Recuperação de Token]",
+            "desc": "Formulário para Refazer Token",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#3 Recuperação de Token]",
+            "desc": "Interfaces de Usuário de Mensangens",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        },
+        {
+            "title": "[#3 Recuperação de Token]",
+            "desc": "Deploy em produção",
+            "time": "2h",
+            "progress": 0,
+            "status": 1
+        }
+    ] 
+}
